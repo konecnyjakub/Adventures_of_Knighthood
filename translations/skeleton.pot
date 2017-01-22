@@ -1,0 +1,2324 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Adventures_of_Knighthood-1.12\n"
+"POT-Creation-Date: 2017-01-17 18:01 UTC\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [unit_type]: id=Dark Queen, race=human
+#: Adventures_of_Knighthood/units/Dark_Queen.cfg:4
+msgid "female^Dark Queen"
+msgstr ""
+
+#. [unit_type]: id=Dark Queen, race=human
+#: Adventures_of_Knighthood/units/Dark_Queen.cfg:19
+msgid "The evil queen mother Asheviere has terrorized Wesnoth for many years. Her knowledge of magic makes her a worthy foe in combat, although her power is mostly derived from those she commands."
+msgstr ""
+
+#. [attack]: type=impact
+#: Adventures_of_Knighthood/units/Dark_Queen.cfg:23
+msgid "scepter"
+msgstr ""
+
+#. [attack]: type=cold
+#: Adventures_of_Knighthood/units/Dark_Queen.cfg:32
+msgid "raging blizzard"
+msgstr ""
+
+#. [unit_type]: id=Mage Magister
+#: Adventures_of_Knighthood/units/Mage_Magister.cfg:8
+msgid "Mage Magister"
+msgstr ""
+
+#. [unit_type]: id=Mage Magister
+#: Adventures_of_Knighthood/units/Mage_Magister.cfg:20
+msgid "A Mage Magister, though equivalent in degree to a Great Mage, has special abilities of command and healing derived from extensive experience of battle."
+msgstr ""
+
+#. [unit_type]: id=Bone Knight, race=undead
+#: Adventures_of_Knighthood/units/Bone_Knight.cfg:5
+msgid "Bone Knight"
+msgstr ""
+
+#. [unit_type]: id=Bone Knight, race=undead
+#: Adventures_of_Knighthood/units/Bone_Knight.cfg:33
+msgid "Once great warriors across the plains, these mounted riders atop their skeletal horses were raised from the ground by unholy magic to spread fear and destruction."
+msgstr ""
+
+#. [attack]: type=impact
+#: Adventures_of_Knighthood/units/Bone_Knight.cfg:81
+msgid "trample"
+msgstr ""
+
+#. [unit_type]: id=King of Wesnoth
+#: Adventures_of_Knighthood/units/King_of_Wesnoth.cfg:7
+msgid "King of Wesnoth"
+msgstr ""
+
+#. [unit_type]: id=King of Wesnoth
+#: Adventures_of_Knighthood/units/King_of_Wesnoth.cfg:15
+msgid "Under the feudal system, all authority ultimately rested with the sovereign. His lords held their property only with his agreement, and had to pay him tribute. In return, the king would defend the realm against invaders, and redistribute wealth in times of need."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/08_The_Black_Knight.cfg:6
+msgid "The ceremony ended with a display of Kaylan's knightly abilities. Several Knights challenged him to a duel, but most of them were defeated by the young and skilled fighter."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/08_The_Black_Knight.cfg:9
+msgid "Sir Kaylan's reputation spread through the land, only a week after Sir Kaylan was dubbed a knight he received a message. A challenge. A duel. From none other than..."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/08_The_Black_Knight.cfg:12
+msgid "The Black Knight."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/08_The_Black_Knight.cfg:15
+msgid "Not much is known about him except that he once was one of the greatest knights in Wesnoth, he dawns black armor and lives in a dark castle up in a small mountain near the swamp of dread."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/08_The_Black_Knight.cfg:18
+msgid "It is believed that this knight was banished from Wesnoth because he was a traitor. Others believe that it was cowardice that got him banished. However, the most believed theory about this outcast is that he once learn - and used - the dark arts of necromancy. And fled when he was sentenced to death."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/08_The_Black_Knight.cfg:21
+msgid "He has not been seen or heard from in Wesnoth ever since he left. At least not until now."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/08_The_Black_Knight.cfg:24
+msgid "The message that Sir Kaylan received read ... <i>I challenge you, Sir Kaylan, to a duel. If you choose to accept, brings six men and yourself, to fight against me and my six men. If you don't accept, than you are obviously not worthy enough to fight me. Signed: The Black Knight.</i>"
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/08_The_Black_Knight.cfg:27
+msgid "The choice was clear to Sir Kaylan ..."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/08_The_Black_Knight.cfg:94
+msgid "He would accept."
+msgstr ""
+
+#. [scenario]: id=08_The_Black_Knight
+#: Adventures_of_Knighthood/scenarios/08_The_Black_Knight.cfg:101
+msgid "The Black Knight"
+msgstr ""
+
+#. [side]: type=Horseman AoK, id=Sir Kaylan
+#. [side]: type=Grand Marshal, id=Kevbanry
+#. [side]: type=Knight, id=Sir Edgar
+#. [side]: type=General, id=Dudpon
+#. [side]: type=General, id=Dommel
+#. [side]: type=King of Wesnoth, id=Garard
+#. [side]: type=General, id=Eldred
+#: Adventures_of_Knighthood/scenarios/08_The_Black_Knight.cfg:123
+#: Adventures_of_Knighthood/scenarios/11_Delfador_The_Great.cfg:135
+#: Adventures_of_Knighthood/scenarios/02_Another_mission.cfg:48
+#: Adventures_of_Knighthood/scenarios/02_Another_mission.cfg:66
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:114
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:139
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:76
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:103
+#: Adventures_of_Knighthood/scenarios/04_A_Choice_In_Carcyn.cfg:69
+#: Adventures_of_Knighthood/scenarios/07_Honor.cfg:90
+#: Adventures_of_Knighthood/scenarios/07_Honor.cfg:114
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:59
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:83
+#: Adventures_of_Knighthood/scenarios/03_Ambush.cfg:63
+#: Adventures_of_Knighthood/scenarios/03_Ambush.cfg:87
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:232
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:255
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:296
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:27
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:50
+msgid "Wesnothians"
+msgstr ""
+
+#. [side]: type=Horseman AoK, id=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/08_The_Black_Knight.cfg:127
+#: Adventures_of_Knighthood/scenarios/11_Delfador_The_Great.cfg:139
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:118
+#: Adventures_of_Knighthood/scenarios/13_AoK_Epilogue.cfg:64
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:253
+msgid "Sir Kaylan"
+msgstr ""
+
+#. [side]: type=Grand Knight, id=Black Knight
+#: Adventures_of_Knighthood/scenarios/08_The_Black_Knight.cfg:147
+#: Adventures_of_Knighthood/scenarios/08_The_Black_Knight.cfg:151
+msgid "Black Knight"
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/08_The_Black_Knight.cfg:176
+msgid "I have accepted your offer to a duel, Black Knight."
+msgstr ""
+
+#. [message]: speaker=Black Knight
+#: Adventures_of_Knighthood/scenarios/08_The_Black_Knight.cfg:180
+msgid "I hope you won't disappoint me, Sir Kaylan of Wesnoth."
+msgstr ""
+
+#. [objective]: condition=win
+#: Adventures_of_Knighthood/scenarios/08_The_Black_Knight.cfg:185
+msgid "Defeat the Black Knight"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Adventures_of_Knighthood/scenarios/08_The_Black_Knight.cfg:189
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:393
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:562
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:446
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:771
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:867
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:616
+msgid "Death of Sir Kaylan"
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/08_The_Black_Knight.cfg:203
+msgid "He has summoned the dead!? Brace yourselves everybody!"
+msgstr ""
+
+#. [message]: speaker=Black Knight
+#: Adventures_of_Knighthood/scenarios/08_The_Black_Knight.cfg:220
+msgid "Let's make this a bit more interesting."
+msgstr ""
+
+#. [message]: role=Killer
+#: Adventures_of_Knighthood/scenarios/08_The_Black_Knight.cfg:234
+msgid "Sir Kaylan's blood will soon drip from my knife!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Adventures_of_Knighthood/scenarios/08_The_Black_Knight.cfg:244
+msgid "I've been defeated ..."
+msgstr ""
+
+#. [message]: speaker=Black Knight
+#: Adventures_of_Knighthood/scenarios/08_The_Black_Knight.cfg:248
+msgid "So you reputation was exaggerated ... How marvelous."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Adventures_of_Knighthood/scenarios/08_The_Black_Knight.cfg:262
+msgid "No!"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: Adventures_of_Knighthood/scenarios/08_The_Black_Knight.cfg:266
+msgid "Your evil shall be no more!"
+msgstr ""
+
+#. [message]: speaker=Black Knight
+#: Adventures_of_Knighthood/scenarios/08_The_Black_Knight.cfg:276
+msgid "This has taken too long!"
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/08_The_Black_Knight.cfg:283
+msgid "I have failed to defeat him ..."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/11_Delfador_The_Great.cfg:7
+msgid "Sir Kaylan fled from the battle, shocked at what just happened. His soldiers were staying loyal to him, but Kaylan wasn't sure if being loyal to him was really more honorable than being loyal to Eldred."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/11_Delfador_The_Great.cfg:11
+msgid "Eldred was the rightful heir to the throne, and - as a knight - Kaylan did once vow that he would be loyal to the rulers of Wesnoth. But something was telling him that being loyal to Eldred and honoring him was not right."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/11_Delfador_The_Great.cfg:14
+msgid "Kaylan rode fast across the Great River, trying to compensate the king's sudden murder. He stopped in a small clearing somewhere in Glyn's Forest..."
+msgstr ""
+
+#. [scenario]: id=11_Delfador_The_Great
+#: Adventures_of_Knighthood/scenarios/11_Delfador_The_Great.cfg:113
+msgid "Delfador The Great"
+msgstr ""
+
+#. [unit]: id=Delfador, type=Mage Magister
+#: Adventures_of_Knighthood/scenarios/11_Delfador_The_Great.cfg:159
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:325
+msgid "Delfador"
+msgstr ""
+
+#. [message]: speaker=Delfador
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/11_Delfador_The_Great.cfg:179
+#: Adventures_of_Knighthood/scenarios/03_Ambush.cfg:236
+msgid "Who are you?"
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/11_Delfador_The_Great.cfg:183
+msgid "I ... I'm Sir Kaylan."
+msgstr ""
+
+#. [message]: speaker=Delfador
+#: Adventures_of_Knighthood/scenarios/11_Delfador_The_Great.cfg:187
+msgid "You, must be the knight Garard use to talk about. He referred to you as his greatest knight."
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/11_Delfador_The_Great.cfg:191
+msgid "I am flattered to hear that, and you are?"
+msgstr ""
+
+#. [message]: speaker=Delfador
+#: Adventures_of_Knighthood/scenarios/11_Delfador_The_Great.cfg:195
+msgid "Do you honor Eldred?"
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/11_Delfador_The_Great.cfg:199
+msgid "... What?"
+msgstr ""
+
+#. [message]: speaker=Delfador
+#: Adventures_of_Knighthood/scenarios/11_Delfador_The_Great.cfg:203
+msgid "Do you honor Eldred!?"
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/11_Delfador_The_Great.cfg:207
+msgid "I ... I honor my country ... my kingdom ... and my king. The true king. Garard."
+msgstr ""
+
+#. [message]: speaker=Delfador
+#: Adventures_of_Knighthood/scenarios/11_Delfador_The_Great.cfg:211
+msgid "I am pleased to hear that. I'm Delfador. Delfador The Great."
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/11_Delfador_The_Great.cfg:215
+msgid "<i>The Great</i> ... I think I've heard about you."
+msgstr ""
+
+#. [message]: speaker=Delfador
+#: Adventures_of_Knighthood/scenarios/11_Delfador_The_Great.cfg:219
+msgid "You most likely have, I was King Garard's advisor."
+msgstr ""
+
+#. [message]: speaker=Delfador
+#: Adventures_of_Knighthood/scenarios/11_Delfador_The_Great.cfg:223
+msgid "I feared that something like this would happen, and now I'm sure that Asheviere is behind all this."
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/11_Delfador_The_Great.cfg:227
+msgid "Asheviere!? Garard's queen?"
+msgstr ""
+
+#. [message]: speaker=Delfador
+#: Adventures_of_Knighthood/scenarios/11_Delfador_The_Great.cfg:231
+msgid "Indeed. Many things have happened these past few months, Asheviere and Eldred have been plotting against Garard for a while. And unfortunately I - like him - was blinded, and could not foresee what was to come."
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/11_Delfador_The_Great.cfg:235
+msgid "So now, the Kingdom will be ruled by Eldred. But I do not wish to serve under him."
+msgstr ""
+
+#. [message]: speaker=Delfador
+#: Adventures_of_Knighthood/scenarios/11_Delfador_The_Great.cfg:239
+msgid "There might be a way to stop him ..."
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/11_Delfador_The_Great.cfg:243
+msgid "How?"
+msgstr ""
+
+#. [message]: speaker=Delfador
+#: Adventures_of_Knighthood/scenarios/11_Delfador_The_Great.cfg:247
+msgid "If I could gather an army loyal to Garard at Weldyn and then make haste back towards Eldred's army, we might be able to defeat him before he reaches the capital."
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/11_Delfador_The_Great.cfg:251
+msgid "I don't know ... It could work. Do you think you could muster an army big enough to fight Eldred?"
+msgstr ""
+
+#. [message]: speaker=Delfador
+#: Adventures_of_Knighthood/scenarios/11_Delfador_The_Great.cfg:255
+msgid "As the king's advisor, I know who is loyal to Garard, and my word, I'm sure I could do it. But the problem is getting to Weldyn and back fast enough."
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/11_Delfador_The_Great.cfg:259
+msgid "Well, if it's speed you need, then it is speed you shall get! I ride the fastest horse in Wesnoth. I could easily get you there and back with much haste. And I could help you muster a fighting force, I too know of a few soldiers that would be willing to fight for the real king of Wesnoth!"
+msgstr ""
+
+#. [message]: speaker=Delfador
+#: Adventures_of_Knighthood/scenarios/11_Delfador_The_Great.cfg:263
+msgid "You must realize that you'll be known as a rebel, and a traitor, Kaylan."
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/11_Delfador_The_Great.cfg:267
+msgid "Better to fight against the evil, then to fight for it!"
+msgstr ""
+
+#. [message]: speaker=Delfador
+#: Adventures_of_Knighthood/scenarios/11_Delfador_The_Great.cfg:271
+msgid "Well said. Let us go now with haste."
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/11_Delfador_The_Great.cfg:275
+msgid "Hop on!"
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/02_Another_mission.cfg:8
+msgid "Sir Edgar and his men left the village in peace, and set out to the capital bearing news of the orcs mysterious appearance. Their travels through the small forest were quite quiet, they only encountered a few goblin pillagers as they passed through a valley, but regardless of that, the journey was peaceful and quick."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/02_Another_mission.cfg:21
+msgid "But when they arrived at Weldyn, they discovered that king Garard was already aware of the orcs presence, and had set out to the Ford of Abez to stop them. So Sir Edgar and his men got some rest, but the knight was soon recalled to military headquarters. Grand Marshal Kevbanry had another assignment for him..."
+msgstr ""
+
+#. [scenario]: id=02_Another_Mission
+#: Adventures_of_Knighthood/scenarios/02_Another_mission.cfg:28
+msgid "Another Mission"
+msgstr ""
+
+#. [side]: type=Grand Marshal, id=Kevbanry
+#: Adventures_of_Knighthood/scenarios/02_Another_mission.cfg:52
+msgid "Kevbanry"
+msgstr ""
+
+#. [side]: type=Knight, id=Sir Edgar
+#: Adventures_of_Knighthood/scenarios/02_Another_mission.cfg:70
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:87
+#: Adventures_of_Knighthood/scenarios/03_Ambush.cfg:91
+msgid "Sir Edgar"
+msgstr ""
+
+#. [message]: speaker=Sir Edgar
+#: Adventures_of_Knighthood/scenarios/02_Another_mission.cfg:100
+msgid "You wanted to see me, sir?"
+msgstr ""
+
+#. [message]: speaker=Kevbanry
+#: Adventures_of_Knighthood/scenarios/02_Another_mission.cfg:104
+msgid "Yes, Sir Edgar, I did. We have reason to believe that orcs are going to raid the Stronghold of Halstead."
+msgstr ""
+
+#. [message]: speaker=Sir Edgar
+#: Adventures_of_Knighthood/scenarios/02_Another_mission.cfg:108
+msgid "If the orcs were to take that fortress, they would have a great advantage over us."
+msgstr ""
+
+#. [message]: speaker=Kevbanry
+#: Adventures_of_Knighthood/scenarios/02_Another_mission.cfg:112
+msgid "Yes, it would, General Maddock saw a ship heading south of Elensefar. According to him, it looked like an orcish ship."
+msgstr ""
+
+#. [message]: speaker=Sir Edgar
+#: Adventures_of_Knighthood/scenarios/02_Another_mission.cfg:116
+msgid "So you think they're going to try raiding the fortress from the west?"
+msgstr ""
+
+#. [message]: speaker=Kevbanry
+#: Adventures_of_Knighthood/scenarios/02_Another_mission.cfg:120
+msgid "Exactly. If that is their intention, then Halstead might be under siege as we speak."
+msgstr ""
+
+#. [message]: speaker=Sir Edgar
+#: Adventures_of_Knighthood/scenarios/02_Another_mission.cfg:124
+msgid "So, you want me reinforce them?"
+msgstr ""
+
+#. [message]: speaker=Kevbanry
+#: Adventures_of_Knighthood/scenarios/02_Another_mission.cfg:128
+msgid "Yes. I've already sent a messenger there, so General Dommel will be expecting you. Any questions?"
+msgstr ""
+
+#. [message]: speaker=Sir Edgar
+#: Adventures_of_Knighthood/scenarios/02_Another_mission.cfg:132
+msgid "No, sir. I will make haste and be out of Weldyn within the hour."
+msgstr ""
+
+#. [message]: speaker=Kevbanry
+#: Adventures_of_Knighthood/scenarios/02_Another_mission.cfg:136
+msgid "Good. Dismissed."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:6
+msgid "After the battle, Kaylan oversaw that the men who fought beside him were treated and healed. He had brought his army with him as an escort, after all, they were not in Wesnoth."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:9
+msgid "A horrid scent filled the air. A scent of death and decay. Kaylan assumed it came from the black knight's fortress of evil and his undead warriors."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:12
+msgid "But then sounds of a battle caught Kaylan's ears, sounds that came from over a hill not too far away from the black knight's castle. Sir Kaylan gathered his troops and made his way toward the sounds to investigate."
+msgstr ""
+
+#. [scenario]: id=09_Power_Of_Death
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:88
+msgid "Power Of Death"
+msgstr ""
+
+#. [side]: type=General, id=Dudpon
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:143
+msgid "Dudpon"
+msgstr ""
+
+#. [side]: type=Necromancer, id=Iliah-Malal
+#. [side]
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:177
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:209
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:230
+msgid "Iliah-Malal's Horde"
+msgstr ""
+
+#. [side]: type=Necromancer, id=Iliah-Malal
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:181
+msgid "Iliah-Malal"
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:314
+msgid "Look! The Wesnothian army is fighting against some undead."
+msgstr ""
+
+#. [message]: speaker=Dudpon
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:318
+msgid "Hail, knight. Who are you?"
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:322
+msgid "I am Sir Kaylan, I was just returning from a battle that took place not long ago."
+msgstr ""
+
+#. [message]: speaker=Dudpon
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:326
+msgid "Well met friend, as you can see we are attempting to destroy this foul necromancer."
+msgstr ""
+
+#. [message]: speaker=Iliah-Malal
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:330
+msgid "And you are failing to do so, most pitifully."
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:334
+msgid "This necromancer looks like a powerful one!"
+msgstr ""
+
+#. [message]: speaker=Thromos
+#. [message]: role=Advisor
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:343
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:349
+msgid "What makes you say that?"
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:355
+msgid "That undead army is vast, as is the Wesnothian army, most of it must be here."
+msgstr ""
+
+#. [message]: speaker=Iliah-Malal
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:359
+msgid "Soon, you will all be serving me!"
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:363
+msgid "Just who are you anyway?"
+msgstr ""
+
+#. [message]: speaker=Iliah-Malal
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:367
+msgid "I am Iliah-Malal! The conqueror, and master, of death!"
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:371
+msgid "...!"
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:375
+msgid "I'm afraid our swords and bows will not help us much against these carrion warriors."
+msgstr ""
+
+#. [message]: speaker=Dudpon
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:379
+msgid "Don't worry, Kaylan, our combined strength will be enough to crush their bones to dust!"
+msgstr ""
+
+#. [message]: speaker=Iliah-Malal
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:383
+msgid "That's what you think fools! Rise my soldiers! RISE!"
+msgstr ""
+
+#. [objective]: condition=win
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:389
+msgid "Defeat Iliah-Malal"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:408
+msgid "Fools! The power of death is mine! When you strike me down I arise stronger than before!"
+msgstr ""
+
+#. [message]: speaker=Dudpon
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:438
+msgid "He has transformed himself into a lich! We must destroy him now!"
+msgstr ""
+
+#. [message]: speaker=Iliah-Malal
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:442
+msgid "You can't kill me now that I have eternal life! I'm immortal! Rise, my Knights! Rise from the ground and take command of the corpses that lurk here!"
+msgstr ""
+
+#. [unit]: type=Death Knight, id=Prepolur
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:449
+msgid "Prepolur"
+msgstr ""
+
+#. [unit]: type=Death Knight, id=Alderoth
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:469
+msgid "Alderoth"
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:504
+msgid "There are too many to fight now! We must flee."
+msgstr ""
+
+#. [message]: speaker=Dudpon
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:508
+msgid "No, Kaylan! We must stay here and fight until the last man."
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:512
+msgid "But we can't! Iliah-Malal is far too powerful for us to defeat."
+msgstr ""
+
+#. [message]: speaker=Dudpon
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:516
+msgid "So we should just flee like cowards? I say honor comes before life."
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:520
+msgid "Which would be more honorable? Flee back to Weldyn and bring news to king Garard about this Iliah-Malal being much more powerful than originally expected. Or to stay here and fight until we die and join the army of our enemy!"
+msgstr ""
+
+#. [message]: speaker=Dudpon
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:524
+msgid "I guess so ... you're right. But how are we going to get away from here? Those bony riders and ghosts will be able to catch us easily."
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:528
+msgid "We'll just have to move as fast as we can."
+msgstr ""
+
+#. [message]: speaker=Dudpon
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:532
+msgid "Alright ... Fall Back! Everybody FALL BACK!!"
+msgstr ""
+
+#. [message]: speaker=Iliah-Malal
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:536
+msgid "You flesh bags won't get far, after them my creatures!"
+msgstr ""
+
+#. [objective]: condition=win
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:558
+msgid "Move Sir Kaylan to the sign post"
+msgstr ""
+
+#. [message]: speaker=Iliah-Malal
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:584
+msgid "You dare attack me while I'm immortal!? Your incompetence will be your doom!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:600
+msgid "I pray that I'll rest in peace for eternity, and not join the likes of these!"
+msgstr ""
+
+#. [message]: speaker=Iliah-Malal
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:604
+msgid "Powers of darkness, enshroud this land!"
+msgstr ""
+
+#. [message]: speaker=Iliah-Malal
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:650
+msgid "Whahahahaha!"
+msgstr ""
+
+#. [message]: speaker=Iliah-Malal
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:657
+msgid "Your efforts are in vain!"
+msgstr ""
+
+#. [message]: speaker=Iliah-Malal
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:664
+msgid "I am the master of death! I cannot die!"
+msgstr ""
+
+#. [message]: speaker=Iliah-Malal
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:671
+msgid "Fools! When you strike me down I only rise stronger than before!"
+msgstr ""
+
+#. [message]: speaker=Iliah-Malal
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:678
+msgid "The only person who will find death here is YOU, Kaylan!"
+msgstr ""
+
+#. [message]: speaker=Iliah-Malal
+#: Adventures_of_Knighthood/scenarios/09_Power_Of_Death.cfg:685
+msgid "Fools! I'm already dead! I cannot be slain!"
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:6
+msgid "Kaylan lead Sir Edgar's men away from Carcyn ..."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:9
+msgid "... and on, to the Stronghold of Halstead."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:45
+msgid "As they rode nearer to their destination, Kaylan thought he heard war drums. But he let the thought stray from his mind."
+msgstr ""
+
+#. [scenario]: id=05_The_Stronghold_Of_Halstead
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:52
+msgid "The Stronghold of Halstead"
+msgstr ""
+
+#. [side]: type=Horseman AoK, id=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:80
+#: Adventures_of_Knighthood/scenarios/04_A_Choice_In_Carcyn.cfg:73
+#: Adventures_of_Knighthood/scenarios/07_Honor.cfg:94
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:63
+#: Adventures_of_Knighthood/scenarios/03_Ambush.cfg:67
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:236
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:31
+msgid "Kaylan"
+msgstr ""
+
+#. [side]: type=General, id=Dommel
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:107
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:54
+msgid "Dommel"
+msgstr ""
+
+#. [side]: type=Orcish Warlord, id=Tul-Gor
+#. [side]: type=Orcish Warlord, id=Snug-Tahn
+#. [side]: type=Troll Warrior, id=Bonk
+#. [side]: type=Orcish Slurbow, id=Al-Taff-Uh
+#. [side]: type=Orcish Warlord, id=Busk
+#. [side]
+#. [side]: type=Orcish Warrior, id=Ked
+#. [side]: type=Orcish Slurbow, id=Tan-Uz-Baf
+#. [side]: type=Orcish Sovereign, id=Tan-Gagnai
+#. [side]: type=Orcish Warlord, id=Fark
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:162
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:186
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:210
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:234
+#: Adventures_of_Knighthood/scenarios/04_A_Choice_In_Carcyn.cfg:93
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:159
+#: Adventures_of_Knighthood/scenarios/03_Ambush.cfg:119
+#: Adventures_of_Knighthood/scenarios/03_Ambush.cfg:150
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:340
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:350
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:389
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:97
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:127
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:162
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:192
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:223
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:259
+msgid "Northerners"
+msgstr ""
+
+#. [side]: type=Orcish Warlord, id=Tul-Gor
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:166
+#: Adventures_of_Knighthood/scenarios/03_Ambush.cfg:123
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:101
+msgid "Tul-Gor"
+msgstr ""
+
+#. [side]: type=Orcish Warlord, id=Snug-Tahn
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:190
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:131
+msgid "Snug-Tahn"
+msgstr ""
+
+#. [side]: type=Troll Warrior, id=Bonk
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:214
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:166
+msgid "Bonk"
+msgstr ""
+
+#. [side]: type=Orcish Slurbow, id=Al-Taff-Uh
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:238
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:196
+msgid "Al-Taff-Uh"
+msgstr ""
+
+#. [unit]: id=Guddry, type=Royal Guard
+#. [unit]: id=Byrdad, type=Royal Guard
+#. [unit]: id=Nedgor, type=Royal Guard
+#. [unit]: id=Pykreh, type=Royal Guard
+#. [unit]: id=Duddry, type=Halberdier
+#. [unit]: id=Madook, type=Halberdier
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:289
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:303
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:317
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:331
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:361
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:375
+msgid "Guard"
+msgstr ""
+
+#. [unit]: id=Borz, type=Lieutenant
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:346
+msgid "Borz"
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:390
+msgid "Whoa! Halstead is certainly a sight to behold! It looks like its walls are made out of the earth of which it's built on."
+msgstr ""
+
+#. [objective]: condition=win
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:395
+msgid "Get to the stronghold"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:399
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:475
+#: Adventures_of_Knighthood/scenarios/04_A_Choice_In_Carcyn.cfg:207
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:195
+#: Adventures_of_Knighthood/scenarios/03_Ambush.cfg:203
+#: Adventures_of_Knighthood/scenarios/03_Ambush.cfg:272
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:491
+msgid "Death of Kaylan"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:403
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:479
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:495
+msgid "Death of Dommel"
+msgstr ""
+
+#. [message]: speaker=Thromos
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:423
+msgid "Look! Orcs!"
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:427
+msgid "It looks like the orcs are invading! I must make haste to the stronghold!"
+msgstr ""
+
+#. [message]: speaker=Dommel
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:441
+msgid "You are our reinforcements I assume."
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:445
+msgid "Yes, we have been sent from the capital to help you if there is an invasion."
+msgstr ""
+
+#. [message]: speaker=Dommel
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:449
+msgid "Well, there <i>is</i> an invasion so your arrival is needed. But why did they send you? You're only a squire."
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:453
+msgid "My knight, Sir Edgar, was ... Unfortunately killed on the way here."
+msgstr ""
+
+#. [message]: speaker=Dommel
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:457
+msgid "And you still decided to come and fulfil your quest? That is indeed noble."
+msgstr ""
+
+#. [objective]: condition=win
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:471
+msgid "Hold off the orcs"
+msgstr ""
+
+#. [message]: speaker=Dommel
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:493
+msgid "They have breached the fortress gate! Repulse them!"
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:500
+msgid "We've been fighting for two days now, our supplies our running low, and the orcs just keep coming in hordes."
+msgstr ""
+
+#. [message]: speaker=Dommel
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:504
+msgid "We will not surrender. We will fight until doomsday is upon us!"
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:508
+msgid "I'm not saying we should surrender. I too would fight until my death, but isn't there any other way."
+msgstr ""
+
+#. [message]: speaker=Dommel
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:512
+msgid "It would take a miracle to save Halstead from these terd-lickers."
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:516
+msgid "Could we send for reinforcements?"
+msgstr ""
+
+#. [message]: speaker=Dommel
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:520
+msgid "No. They have us surrounded. A messenger couldn't get away from their clutches."
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:524
+msgid "Fortunately, this fog seems to be clearing up."
+msgstr ""
+
+#. [message]: speaker=Dommel
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:528
+msgid "Hopefully when our enemies are revealed, so will their weaknesses."
+msgstr ""
+
+#. [message]: speaker=Dommel
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:567
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:737
+msgid "Uhg!"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:571
+msgid "Orcs will rule Halstead!"
+msgstr ""
+
+#. [message]: speaker=Dommel
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:575
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:745
+msgid "This small victory today is but a reprieve from the unimaginable pain you will suffer when the full force of Wesnoth's army ascends upon you."
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:579
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:749
+msgid "Small victory, bah!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Adventures_of_Knighthood/scenarios/05_The_Stronghold_Of_Halstead.cfg:584
+msgid "The enemy then beheaded the general, and as his lifeless body fell to the floor; so did all hope for victory ..."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/13_AoK_Epilogue.cfg:8
+msgid "As Sir Kaylan rode away from the battle field, with Delfador sitting behind him, he looked back at his soldiers who were buying him time at the cost of their own life."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/13_AoK_Epilogue.cfg:12
+msgid "Delfador's men were defeated and routed, but Asheviere found her son's lifeless body, fixed to the ground by the great mage's staff. Although Delfador took the staff of An-Usrukhar with him, for he knew that leaving it behind would be insanity, it was the weapon he used to end the life of Eldred."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/13_AoK_Epilogue.cfg:15
+msgid "Under Delfador's advice, Kaylan went back to Weldyn and lived unknown to his enemies. And Delfador had gone to a small village outside of Weldyn, he made sure no one knew who he was, and kept his ears open for anything Asheviere might do."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/13_AoK_Epilogue.cfg:19
+msgid "Only a day after Kaylan's rebellion, the knight was walking by the royal palace when he heard some guards talking about orders to assassinate Eldred's nephews. Instantly, Sir Kaylan mounted his horse and rode with as much haste as he could to where Delfador was living."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/13_AoK_Epilogue.cfg:23
+msgid "Because of the short distance between them, Kaylan reached Delfador in less than an hour and brought him back to Weldyn in hopes of saving the young princes. Kaylan knew, as Delfador did, that the only thing that could stop Asheviere's reign would to be a heir to the throne, or a great battle that would have to end with the queen's death. The latter was an impossible idea."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/13_AoK_Epilogue.cfg:27
+msgid "Kaylan reached the Palace. Delfador dismounted, and entered while Kaylan waited outside for Delfador's return. But some guards saw Kaylan and recognized him, Kaylan rode fast away from the danger and away from the palace. He escaped!"
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/13_AoK_Epilogue.cfg:31
+msgid "Kaylan wasn't sure if the mage managed to save the prince without his aid, but he was sure of one thing. Weldyn was no longer safe for him."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/13_AoK_Epilogue.cfg:34
+msgid "With every passing day, Kaylan became more confidant that Delfador survived because he was never bothered by Asheviere, so the guards that saw him must have died, and they most likely died by Delfador's hand."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/13_AoK_Epilogue.cfg:37
+msgid "It is said that Sir Kaylan and Delfador did meet again. Long after Eldred's death, he help Delfador once again, only at that time, he help Delfador escape to the Isle of Alduin in hopes of protecting the <i>Heir to the Throne</i>..."
+msgstr ""
+
+#. [scenario]: id=13_AoK_Epilogue
+#: Adventures_of_Knighthood/scenarios/13_AoK_Epilogue.cfg:44
+msgid "Epilogue"
+msgstr ""
+
+#. [side]: type=Horseman AoK, id=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/13_AoK_Epilogue.cfg:60
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:249
+msgid "Rebels"
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/04_A_Choice_In_Carcyn.cfg:7
+msgid "Kaylan fled in sadness for his loss was great. However, he knew he had to fulfill his knight's last request so he continued Sir Edgar's - now his - mission. He wanted so badly to avenge his friend, but he knew he wouldn't get that chance."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/04_A_Choice_In_Carcyn.cfg:38
+msgid "Kaylan made haste to the city of Carcyn, where he and his men would rest for a short while before proceeding to Halstead ..."
+msgstr ""
+
+#. [scenario]: id=04_A_Choice_In_Carcyn
+#: Adventures_of_Knighthood/scenarios/04_A_Choice_In_Carcyn.cfg:45
+msgid "A Choice In Carcyn"
+msgstr ""
+
+#. [side]: type=Orcish Warlord, id=Busk
+#: Adventures_of_Knighthood/scenarios/04_A_Choice_In_Carcyn.cfg:97
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:263
+msgid "Busk"
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/04_A_Choice_In_Carcyn.cfg:163
+msgid "We'll rest in Carcyn for a while and then proceed to Halstead in the morning."
+msgstr ""
+
+#. [message]: role=Advisor
+#: Adventures_of_Knighthood/scenarios/04_A_Choice_In_Carcyn.cfg:167
+msgid "Uh, sir, it would appear that the orcs have taken over the city."
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/04_A_Choice_In_Carcyn.cfg:171
+msgid "Those menacing beasts! We shall take the city back!"
+msgstr ""
+
+#. [message]: role=Advisor
+#: Adventures_of_Knighthood/scenarios/04_A_Choice_In_Carcyn.cfg:175
+msgid "You speak brave words, sir, but I should warn you that our mission was to reinforce General Dommel at the Stronghold of Halstead. Taking back this city would be brave and honorable, but also time consuming."
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/04_A_Choice_In_Carcyn.cfg:179
+msgid "But these orcs are our enemies. They're killers! And the city should be restored to peace."
+msgstr ""
+
+#. [message]: role=Advisor
+#: Adventures_of_Knighthood/scenarios/04_A_Choice_In_Carcyn.cfg:183
+msgid "I agree it would be the right thing to do, and I don't doubt we could take this city back. But it will take time, and more orcs might be following us."
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/04_A_Choice_In_Carcyn.cfg:187
+msgid "*Sigh* I wish Sir Edgar was here."
+msgstr ""
+
+#. [message]: role=Advisor
+#: Adventures_of_Knighthood/scenarios/04_A_Choice_In_Carcyn.cfg:191
+msgid "You're in command now, Kaylan, the choice is yours."
+msgstr ""
+
+#. [objective]: condition=win
+#: Adventures_of_Knighthood/scenarios/04_A_Choice_In_Carcyn.cfg:198
+msgid "Move Kaylan to the sign post"
+msgstr ""
+
+#. [objective]: condition=win
+#: Adventures_of_Knighthood/scenarios/04_A_Choice_In_Carcyn.cfg:202
+msgid ""
+"<span color='white'>Or</span>\n"
+"<span color='green'>Defeat Busk</span> <small>(Bonus)</small>"
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/04_A_Choice_In_Carcyn.cfg:235
+msgid "We have freed Carcyn from the clutches of this warlord! Now we must proceed to Halstead."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Adventures_of_Knighthood/scenarios/04_A_Choice_In_Carcyn.cfg:255
+msgid "The Grey Woods, I wouldn't want to go in there."
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/04_A_Choice_In_Carcyn.cfg:278
+msgid "We've spent to much time here! I've failed my mission..."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:7
+msgid "Riding on Kaylan's horse, Delfador made it back to Weldyn by morning."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:107
+msgid "The two of them split up and proceeded through Weldyn searching for soldiers that they knew to be loyal to Garard."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:110
+msgid "By the next hour, Kaylan had mustered a small fighting force, and made his way back to the gates of the capital."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:114
+msgid "When he arrived there, he found Delfador's fighting force. The two armies connected, and marched out of the city to meat Eldred. They marched with haste, for Delfador knew that the farther they were away from Weldyn when the met Eldred, the better."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:218
+msgid "As they approached the city of Tath, Delfador sensed the battle that the future of Wesnoth may depend on, was about to begin."
+msgstr ""
+
+#. [scenario]: id=12_Reprisal
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:225
+msgid "Reprisal"
+msgstr ""
+
+#. [side]: type=General, id=Eldred
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:273
+msgid "Loyalists"
+msgstr ""
+
+#. [side]: type=General, id=Eldred
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:277
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:300
+msgid "Eldred"
+msgstr ""
+
+#. [message]: speaker=Eldred
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:343
+msgid "What's this? Rebels!"
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:347
+msgid "There's Eldred's army, prepare for battle!"
+msgstr ""
+
+#. [message]: speaker=Eldred
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:351
+msgid "Ah, Kaylan... I would have thought you'd be the honorable one and fight beside me."
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:355
+msgid "I serve under the true king of Wesnoth only!"
+msgstr ""
+
+#. [message]: speaker=Eldred
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:359
+msgid "I am the rightful heir to the throne! I'm the true king of Wesnoth, and yet, you fight against me?"
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:363
+msgid "The rightful heir, yes. The king of Wesnoth, maybe. It wasn't law or honor that made you king! It was treachery and murder! Your evil reign ends now Eldred!"
+msgstr ""
+
+#. [message]: speaker=Eldred
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:367
+msgid "Enough! Soldiers! March! Let us make a show of what happens when people rebel against their kingdom, and their king!"
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:382
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:393
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:417
+msgid "Thromos, are you sure you want to be apart of this?"
+msgstr ""
+
+#. [message]: speaker=Thromos
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:386
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:397
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:421
+msgid "Yes Kaylan, I've been friends with you for many years now. If your willing to fight against your own countrymen, then I shall fight beside you."
+msgstr ""
+
+#. [message]: speaker=Thromos
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:401
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:425
+msgid "I brought a bunch of students from a fencing school in Weldyn. They are yours to command!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:406
+msgid "We may now recruit Fencers!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:430
+msgid "We may now recruit the talented Duelists!"
+msgstr ""
+
+#. [objective]: condition=win
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:442
+msgid "Defeat Eldred"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:450
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:775
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:871
+msgid "Death of Delfador"
+msgstr ""
+
+#. [message]: speaker=Eldred
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:462
+msgid "You've stood in my way for the last time, Delfador!"
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:475
+msgid "Delfador! Look out!"
+msgstr ""
+
+#. [animate]
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:504
+msgid "9"
+msgstr ""
+
+#. [animate]
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:544
+msgid "10"
+msgstr ""
+
+#. [animate]
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:619
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:658
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:697
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:736
+msgid "14"
+msgstr ""
+
+#. [message]: speaker=Delfador
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:754
+msgid "You have received the death you deserve Eldred. It is done..."
+msgstr ""
+
+#. [message]: role=evilsupporter
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:758
+msgid "They killed Eldred! Treason!!"
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:762
+msgid "They're still going to fight us. We must defeat them all!"
+msgstr ""
+
+#. [objective]: condition=win
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:767
+msgid "Kill all the remaining Loyalists"
+msgstr ""
+
+#. [unit]: type=Dark Queen, id=Asheviere
+#. [unit]: id=Asheviere, type=Dark Queen
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:788
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:747
+msgid "Asheviere"
+msgstr ""
+
+#. [unit]: type=Royal Guard, id=Roy
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:802
+msgid "Roy"
+msgstr ""
+
+#. [unit]: type=Royal Guard, id=Tadedury
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:814
+msgid "Tadedury"
+msgstr ""
+
+#. [message]: speaker=Asheviere
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:842
+msgid "What's going on here?"
+msgstr ""
+
+#. [message]: role=evilsupporter
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:846
+msgid "Milady! These soldiers are rebelling against you! The great mage Delfador just killed king Eldred!"
+msgstr ""
+
+#. [message]: speaker=Asheviere
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:850
+msgid "DELFADOR! So it is you once again who is behind the foiling of my plans!"
+msgstr ""
+
+#. [message]: speaker=Delfador
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:854
+msgid "Yes, Asheviere! It is I; Delfador The Great!"
+msgstr ""
+
+#. [message]: speaker=Asheviere
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:858
+msgid "You are fools to think you can stand up to me! I bring with me the rest of my sons army which will soon crush you all!"
+msgstr ""
+
+#. [objective]: condition=win
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:863
+msgid "Defeat Asheviere"
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:881
+msgid "Delfador! What shall we do?"
+msgstr ""
+
+#. [message]: speaker=Delfador
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:885
+msgid "There are to many to fight now. We must flee!"
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:889
+msgid "<i>You</i> must flee. I shall stay here and buy you some time!"
+msgstr ""
+
+#. [message]: speaker=Delfador
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:893
+msgid "No, I will not be able to outrun them myself, I need you to take me."
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:897
+msgid "Take my horse Delfador, I shall fight on foot."
+msgstr ""
+
+#. [message]: speaker=Delfador
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:901
+msgid "Kaylan, I can't stand up to the throne by myself. I need your help. It is just as imperative for you to escape as it is for me."
+msgstr ""
+
+#. [message]: speaker=Thromos
+#. [message]: role=Advisor
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:910
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:916
+msgid "Go Sir Kaylan, we will hold them off as long as we can!"
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:922
+msgid "Very well, let us make haste away from here."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Adventures_of_Knighthood/scenarios/12_Reprisal.cfg:938
+msgid "No! So young..."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/07_Honor.cfg:7
+msgid "Sir Kaylan left Halstead behind him and led his troops back to Weldyn. The men sang with joyful hearts as they traveled on the road that led them through Dan Tonk and on to the capital."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/07_Honor.cfg:63
+msgid "Kaylan and his men got some much deserved rest and a ceremony was held in Sir Edgar's honor. The next day Kaylan was called to the throne room of King Garard II."
+msgstr ""
+
+#. [scenario]: id=07_Honor
+#: Adventures_of_Knighthood/scenarios/07_Honor.cfg:70
+msgid "Honor"
+msgstr ""
+
+#. [side]: type=King of Wesnoth, id=Garard
+#: Adventures_of_Knighthood/scenarios/07_Honor.cfg:118
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:259
+msgid "Garard II"
+msgstr ""
+
+#. [message]: speaker=Garard
+#: Adventures_of_Knighthood/scenarios/07_Honor.cfg:151
+msgid "We have won a great victory, the orcs won't be raiding us anytime soon."
+msgstr ""
+
+#. [message]: speaker=Garard
+#: Adventures_of_Knighthood/scenarios/07_Honor.cfg:155
+msgid "Kaylan, I have heard of your bravery at Halstead. Edgar, Like I, would have been proud of you."
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/07_Honor.cfg:159
+msgid "Thank you sire, but I couldn't have done it without Dommel, and Alifar."
+msgstr ""
+
+#. [message]: speaker=Garard
+#: Adventures_of_Knighthood/scenarios/07_Honor.cfg:163
+msgid "Alifar? Who is he?"
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/07_Honor.cfg:167
+msgid "Some lonely guy out in the mountains, he help me twice with the aid of his trained creatures."
+msgstr ""
+
+#. [message]: speaker=Garard
+#: Adventures_of_Knighthood/scenarios/07_Honor.cfg:171
+msgid "I see. General Dommel shall be awarded for his efforts, as shall you."
+msgstr ""
+
+#. [message]: speaker=Garard
+#: Adventures_of_Knighthood/scenarios/07_Honor.cfg:175
+msgid "Kneel Kaylan."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Adventures_of_Knighthood/scenarios/07_Honor.cfg:183
+msgid "Garard pulled out a sword and touch Kaylan's shoulders with its flat sides, with this action he was proclaiming Kaylan as a knight."
+msgstr ""
+
+#. [message]: speaker=Garard
+#: Adventures_of_Knighthood/scenarios/07_Honor.cfg:187
+msgid "Because of your skills, your bravery, and your nobility, I dub you a knight of Wesnoth."
+msgstr ""
+
+#. [message]: speaker=Garard
+#: Adventures_of_Knighthood/scenarios/07_Honor.cfg:191
+msgid "Rise, Sir Kaylan."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Adventures_of_Knighthood/scenarios/07_Honor.cfg:196
+msgid "Kaylan couldn't believe it, he was a knight, a knight of Wesnoth. Silence filled the room, the guards watched, making not sound nor movement. Kaylan's heart was filled with joy, and Garard looked at the newly knighted hero thinking <i>He will be one of the greatest...</i>"
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:6
+msgid "This is the story of a knight. A hero. A rebel."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:9
+msgid "It begins in Blackwater port, a young boy named Kaylan lived there with his father and mother. He had lived a good childhood, but when he aged a little over seven ..."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:12
+msgid "Bandits attacked, they stole money, ransacked villages, and killed innocent people, among these unfortunate victims was Kaylan's father and mother, nightmares swept through Kaylan's mind as he saw his parents lifeless bodies on the ground unmoving. Dead."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:16
+msgid "But then he came. They came. Men riding on horses with spears and swords galloping into battle against the criminals, their lances pierced the outlaws and their swords made killing blows with every swing. It was only seconds afterwards that peace and silence fell over the port. The men were called knights. Knights of Wesnoth."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:19
+msgid "Kaylan looked on with shock. His attention was drawn to a knight who was riding towards him. His name was Edgar. Sir Edgar. He looked upon the young boy with concern, his eyes however fixed on the lifeless bodies in front of the boy. At that moment, he knew this boy had no father or mother."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:22
+msgid "Sir Edgar took Kaylan to Weldyn where he lived, the young boy became a page until his mid teens when he became Edgar's squire. Kaylan looked to his knight not just as his master, but also as his second father."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:25
+msgid "Kaylan has remained Edgar's squire for four years, now in the year of 470 YW a small village south-west of Weldyn has been invaded by a duo of outlaws, Sir Edgar and his squire - Kaylan - have been sent to bring the outlaws to justice."
+msgstr ""
+
+#. [scenario]: id=01_Bringing_Them_To_Justice
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:37
+msgid "Bringing Them To Justice"
+msgstr ""
+
+#. [side]: type=Rogue, id=Dynas
+#. [side]: type=Outlaw, id=Ekor
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:108
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:137
+msgid "Outlaws"
+msgstr ""
+
+#. [side]: type=Rogue, id=Dynas
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:113
+msgid "Dynas"
+msgstr ""
+
+#. [side]: type=Outlaw, id=Ekor
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:141
+msgid "Ekor"
+msgstr ""
+
+#. [message]: speaker=Sir Edgar
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:170
+msgid "We're here to put an end to your crimes. Surrender to us as prisoners or feel my lance!"
+msgstr ""
+
+#. [message]: speaker=Dynas
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:174
+msgid "Heh heh, what do you think Ekor? Should we let them just take us to prison?"
+msgstr ""
+
+#. [message]: speaker=Ekor
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:178
+msgid "If they can get to us. Ha! Attack!"
+msgstr ""
+
+#. [message]: speaker=Sir Edgar
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:182
+msgid "Well, Kaylan, I guess we shall have to fight these rogues. Go to the camp over there and gather the villagers, I'm sure they will help us."
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:186
+#: Adventures_of_Knighthood/scenarios/03_Ambush.cfg:188
+msgid "Yes, sir."
+msgstr ""
+
+#. [objective]: condition=win
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:191
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:487
+msgid "Defeat all enemy leaders"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:199
+msgid "Death of Sir Edgar"
+msgstr ""
+
+#. [message]: role=supporter
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:217
+msgid "For my village!"
+msgstr ""
+
+#. [unit]: id=Thromos, type=Fencer
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:231
+msgid "Thromos"
+msgstr ""
+
+#. [message]: speaker=Thromos
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:246
+msgid "En Garde! Eh ... Who are you?"
+msgstr ""
+
+#. [message]: speaker=Sir Edgar
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:250
+msgid "Peace, friend, I am Sir Edgar of Weldyn and we've been sent to bring these outlaws to justice."
+msgstr ""
+
+#. [message]: speaker=Thromos
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:254
+msgid "Well, I'm glad to hear that."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:258
+msgid "What are you doing here?"
+msgstr ""
+
+#. [message]: speaker=Thromos
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:262
+msgid "Keeping myself alive from the blasted bandits, of course."
+msgstr ""
+
+#. [message]: speaker=Sir Edgar
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:266
+msgid "We would appreciate your help if you're willing to offer it."
+msgstr ""
+
+#. [message]: speaker=Thromos
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:270
+msgid "And I would gladly help you kill these outlaws, and avenge my family."
+msgstr ""
+
+#. [message]: speaker=Thromos
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:281
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:566
+msgid "En Garde you feind!"
+msgstr ""
+
+#. [message]: speaker=Sir Edgar
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:291
+msgid "Feel my lance, scum!"
+msgstr ""
+
+#. [message]: speaker=Sir Edgar
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:299
+msgid "Day approaches once again everybody, it's time to fight back!"
+msgstr ""
+
+#. [unit]: type=Direwolf Rider, id=Galak-Tuk
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:311
+msgid "Galak-Tuk"
+msgstr ""
+
+#. [message]: speaker=Galak-Tuk
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:326
+msgid "Take the village, boys! Today I will make great chief Zorlan proud!"
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:330
+msgid "Orcs! What are they doing so far south!?"
+msgstr ""
+
+#. [message]: speaker=Sir Edgar
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:334
+msgid "I know not, but they must be destroyed!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:374
+msgid "I've failed you, Edgar..."
+msgstr ""
+
+#. [message]: speaker=Sir Edgar
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:378
+msgid "No, Kaylan! I need your help!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:391
+msgid "Uh!... Kaylan... fight on..."
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:395
+#: Adventures_of_Knighthood/scenarios/03_Ambush.cfg:296
+msgid "No, I can't do it with out you, Edgar!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:409
+msgid "I have been kill by human slugs, but I will be aven... Uh..."
+msgstr ""
+
+#. [unit]: type=Orcish Warlord, id=Tumusup
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:420
+msgid "Tumusup"
+msgstr ""
+
+#. [message]: speaker=Tumusup
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:428
+msgid "What!? What's going on here?"
+msgstr ""
+
+#. [message]: speaker=Galak-Tuk
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:432
+msgid "These humans are giving me a whole lot of trouble."
+msgstr ""
+
+#. [message]: speaker=Tumusup
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:436
+msgid "Great chief Zorlan isn't going to like this at all."
+msgstr ""
+
+#. [message]: speaker=Galak-Tuk
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:440
+msgid "Oh boy ..."
+msgstr ""
+
+#. [message]: speaker=Tumusup
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:444
+msgid "Well, I'm here now with some better troops, so it's time to finish this."
+msgstr ""
+
+#. [message]: speaker=Sir Edgar
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:448
+msgid "Oh no, more orcs, we're doomed ..."
+msgstr ""
+
+#. [message]: speaker=Sir Edgar
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:460
+msgid "We have emerged victorious, but the fact that orcs were so far south - and worse - so close to Weldyn troubles me."
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:464
+msgid "Sir, we must report this to the king."
+msgstr ""
+
+#. [message]: speaker=Sir Edgar
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:468
+msgid "Indeed, and with haste. We'll take a shorter route through a small forest just west of here."
+msgstr ""
+
+#. [message]: speaker=Thromos
+#: Adventures_of_Knighthood/scenarios/01_Bringing_Them_To_Justice.cfg:472
+msgid "I will follow you to Weldyn, there is nothing here for me now. Besides, I 'ow you."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/03_Ambush.cfg:9
+msgid "Following the Marshal's orders; Sir Edgar and his men left Weldyn, on a journey to Halstead ..."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/03_Ambush.cfg:33
+msgid "But the journey was not as peaceful as they would have hoped."
+msgstr ""
+
+#. [scenario]: id=03_Ambush
+#: Adventures_of_Knighthood/scenarios/03_Ambush.cfg:40
+msgid "Ambush"
+msgstr ""
+
+#. [side]
+#: Adventures_of_Knighthood/scenarios/03_Ambush.cfg:108
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:70
+msgid "Monsters"
+msgstr ""
+
+#. [side]: type=Orcish Warrior, id=Ked
+#: Adventures_of_Knighthood/scenarios/03_Ambush.cfg:154
+msgid "Ked"
+msgstr ""
+
+#. [message]: speaker=Sir Edgar
+#: Adventures_of_Knighthood/scenarios/03_Ambush.cfg:172
+msgid "Let's get through this mountain pass as quickly as we can, orcs might be lurking here."
+msgstr ""
+
+#. [message]: speaker=Tul-Gor
+#: Adventures_of_Knighthood/scenarios/03_Ambush.cfg:176
+msgid "You're right, human! Get 'em! Leave no one alive!"
+msgstr ""
+
+#. [message]: speaker=Thromos
+#: Adventures_of_Knighthood/scenarios/03_Ambush.cfg:180
+msgid "Oh no, maybe coming with you guys wasn't so good idea."
+msgstr ""
+
+#. [message]: speaker=Sir Edgar
+#: Adventures_of_Knighthood/scenarios/03_Ambush.cfg:184
+msgid "We have to get through with haste! Kaylan, get most of the troops out! I'll hold them off for a while and catch up with you!"
+msgstr ""
+
+#. [message]: speaker=Ked
+#: Adventures_of_Knighthood/scenarios/03_Ambush.cfg:192
+msgid "Hahaha! They won't get out of this pass alive!"
+msgstr ""
+
+#. [objective]: condition=win
+#: Adventures_of_Knighthood/scenarios/03_Ambush.cfg:199
+#: Adventures_of_Knighthood/scenarios/03_Ambush.cfg:268
+msgid "Kaylan reaches the sign post"
+msgstr ""
+
+#. [unit]: type=Ruffian, id=Alifar
+#: Adventures_of_Knighthood/scenarios/03_Ambush.cfg:215
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:512
+msgid "Alifar"
+msgstr ""
+
+#. [message]: speaker=Alifar
+#: Adventures_of_Knighthood/scenarios/03_Ambush.cfg:232
+msgid "Huzzah! Look my pets - meat for you."
+msgstr ""
+
+#. [message]: speaker=Alifar
+#: Adventures_of_Knighthood/scenarios/03_Ambush.cfg:240
+msgid "The question is: who are you? I'm Alifar, these are my pets and they're about to eat you."
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/03_Ambush.cfg:244
+msgid "Peace, I have no quarrel with you, I'm just trying to escape these orcs."
+msgstr ""
+
+#. [message]: speaker=Alifar
+#: Adventures_of_Knighthood/scenarios/03_Ambush.cfg:248
+msgid "Really. Well, in that case you can consider me your new friend. Go my pets - feast on the orcs BUT don't touch the humans."
+msgstr ""
+
+#. [message]: speaker=Ked
+#: Adventures_of_Knighthood/scenarios/03_Ambush.cfg:252
+msgid "...? Kill the lunatic!"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Adventures_of_Knighthood/scenarios/03_Ambush.cfg:276
+msgid "Death of Alifar"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Adventures_of_Knighthood/scenarios/03_Ambush.cfg:292
+msgid "Uh! ... Kaylan.... fight on ..... Go to Halste..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Adventures_of_Knighthood/scenarios/03_Ambush.cfg:300
+msgid "You ... Must .... Reinforce ..... Dom..."
+msgstr ""
+
+#. [message]: role=Advisor
+#: Adventures_of_Knighthood/scenarios/03_Ambush.cfg:308
+msgid "Kaylan! The orcs are chasing us now, we must hurry!"
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/03_Ambush.cfg:320
+msgid "I must fulfil Sir Edgar's last request!"
+msgstr ""
+
+#. [message]: role=Advisor
+#: Adventures_of_Knighthood/scenarios/03_Ambush.cfg:324
+msgid "We are still ready to fight, Kaylan. Lead us on!"
+msgstr ""
+
+#. [message]: speaker=Ked
+#: Adventures_of_Knighthood/scenarios/03_Ambush.cfg:328
+msgid "No! The cursed humans are getting away!"
+msgstr ""
+
+#. [message]: speaker=Tul-Gor
+#: Adventures_of_Knighthood/scenarios/03_Ambush.cfg:332
+msgid "After them! Slay the idiot! And kill those humans!"
+msgstr ""
+
+#. [message]: speaker=Alifar
+#: Adventures_of_Knighthood/scenarios/03_Ambush.cfg:336
+msgid "Just try, buddy, just try."
+msgstr ""
+
+#. [message]: speaker=Alifar
+#: Adventures_of_Knighthood/scenarios/03_Ambush.cfg:350
+msgid "Hehehe ... *Whistles*"
+msgstr ""
+
+#. [message]: speaker=Alifar
+#: Adventures_of_Knighthood/scenarios/03_Ambush.cfg:367
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:767
+msgid "Gah! Avenge me, my pets!"
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/03_Ambush.cfg:371
+msgid "No! I'm doomed without him..."
+msgstr ""
+
+#. [message]: speaker=Tul-Gor
+#: Adventures_of_Knighthood/scenarios/03_Ambush.cfg:381
+msgid "Hahaha! Reinforcements have arrived!"
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/03_Ambush.cfg:385
+msgid "We're surrounded ..."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:7
+msgid "Sir Kaylan managed to escape, and bring news of the battle against Iliah-Malal to King Garard II. The Wesnoth army had been destroyed, and nothing stood between Iliah-Malal's army and Weldyn...."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:86
+msgid "Kaylan was rewarded for his efforts, and got some rest. A few days afterwards, he heard good news, Iliah-Malal was dead! He was defeated by a mage. Someone called <i>The Great</i>."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:89
+msgid "From there on out Sir Kaylan lived a good life. A life of peace and heroism. The next few years in Wesnoth were quiet ones, Sir Kaylan was occasionally required to take care of a few minor bandits. But nothing that would put his great skills to a test."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:92
+msgid "Unfortunately though, peace was not to last."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:95
+msgid "In the year of 500 YW, 30 years after Kaylan's confrontation with the evil necromancer, the Orcs of the north declared war on Wesnoth."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:100
+msgid "The Northern host had encamped themselves at Galcadar, by the ford of Abez, and king Garard II was leading his forces to meet them. Splitting his army in two, he led one half while his son, the crown prince Eldred, led the other."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:103
+msgid "Garard and Eldred's men faced the Northerners that were on the opposite side of the Great River. Neither one of the armies was willing to cross. Garard was getting worried. Worried that the orcs had a winning battle plan and were waiting to unleash it upon them."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:107
+msgid "Garard has decided that it's taken too long, so he has recalled Sir Kaylan to the battlefield. The plan is that Sir Kaylan will sail across the Great River in the east, where the orcs won't be able to spot him, and lead his troops along the rivers edge towards the orcish army."
+msgstr ""
+
+#. [part]
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:111
+msgid "Garard is hoping that Sir Kaylan will be able to distract the orcs long enough for the Wesnothian troops to ford the river, and defeat the Northerners."
+msgstr ""
+
+#. [scenario]: id=10_Betrayal_On_The_Battlefield
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:207
+msgid "Betrayal On The Battlefield"
+msgstr ""
+
+#. [side]: type=Orcish Slurbow, id=Tan-Uz-Baf
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:354
+msgid "Tan-Uz-Baf"
+msgstr ""
+
+#. [side]: type=Orcish Sovereign, id=Tan-Gagnai
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:393
+msgid "Tan-Gagnai"
+msgstr ""
+
+#. [side]
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:428
+msgid "Naga"
+msgstr ""
+
+#. [unit]: id=Pykre, type=Cavalier
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:470
+msgid "Pykre"
+msgstr ""
+
+#. [message]: speaker=Pykre
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:538
+msgid "Sir Kaylan is in position, sire."
+msgstr ""
+
+#. [message]: speaker=Garard
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:542
+msgid "Excellent. Eldred, do you remember the plan?"
+msgstr ""
+
+#. [message]: speaker=Eldred
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:546
+msgid "Of course I do - we wait for Kaylan's signal before we cross th-"
+msgstr ""
+
+#. [unit]: type=Orcish Slayer, id=Rul
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:553
+msgid "Rul"
+msgstr ""
+
+#. [message]: speaker=Rul
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:590
+msgid "Haha! Die humans! Die!"
+msgstr ""
+
+#. [message]: speaker=Tan-Gagnai
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:594
+msgid "Rul has made it across, attack!"
+msgstr ""
+
+#. [message]: speaker=Eldred
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:598
+msgid "They're attacking! We must take action and fight back now!"
+msgstr ""
+
+#. [message]: speaker=Garard
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:602
+msgid "Indeed. We must defeat this orc before the rest of the army fords the river!"
+msgstr ""
+
+#. [objective]: condition=win
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:612
+msgid "Defeat the orc leaders"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:620
+msgid "Death of King Garard II"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:624
+msgid "Death of Prince Eldred"
+msgstr ""
+
+#. [message]: speaker=Tan-Gagnai
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:638
+msgid "The humans are defeating us! Reinforcements!!"
+msgstr ""
+
+#. [message]: speaker=Eldred
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:674
+msgid "My day has come!"
+msgstr ""
+
+#. [message]: speaker=Garard
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:681
+msgid "Eldred? What are y-"
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:731
+msgid "Eldred just killed Garard!?"
+msgstr ""
+
+#. [message]: speaker=Eldred
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:735
+msgid "The throne of Wesnoth is mine! I am the new king!"
+msgstr ""
+
+#. [message]: role=evilsupporter
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:739
+msgid "Long live Eldred!"
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:743
+msgid "The soldiers are loyal to Eldred!? He must have planned all this! But ... why ..."
+msgstr ""
+
+#. [message]: speaker=Asheviere
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:762
+msgid "Well done, Eldred ... Well done."
+msgstr ""
+
+#. [unit]: type=Naga Myrmidon, id=Blaisix
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:787
+msgid "Blaisix"
+msgstr ""
+
+#. [message]: speaker=Blaisix
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:807
+msgid "Hey, a big battle isss raging between orcsss and humansss."
+msgstr ""
+
+#. [message]: speaker=Tan-Gagnai
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:811
+msgid "Naga, your kind has helped orcs before, will you ally with us?"
+msgstr ""
+
+#. [message]: speaker=Blaisix
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:815
+msgid "Sssure, we're really craving for a good battle, right, boysss?"
+msgstr ""
+
+#. [message]: role=nagasss
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:819
+msgid "Yesss, anything to make sssome more <i>gold</i>."
+msgstr ""
+
+#. [message]: speaker=Tan-Gagnai
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:823
+msgid "..."
+msgstr ""
+
+#. [message]: speaker=Tan-Gagnai
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:827
+msgid "Eh... I'll get back to you on that."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:850
+msgid "All is lost without me..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Adventures_of_Knighthood/scenarios/10_Betrayal_On_The_Battlefield.cfg:863
+msgid "Noooooo..."
+msgstr ""
+
+#. [scenario]: id=06_The_Battle_For_Halstead
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:5
+msgid "The Battle for Halstead"
+msgstr ""
+
+#. [side]: type=Orcish Warlord, id=Fark
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:227
+msgid "Fark"
+msgstr ""
+
+#. [message]: speaker=Fark
+#. [message]: speaker=Busk
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:430
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:436
+msgid "I have arrived with reinforcements."
+msgstr ""
+
+#. [message]: speaker=Snug-Tahn
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:442
+msgid "Yes! Now we will crush those humans with ease."
+msgstr ""
+
+#. [message]: speaker=Dommel
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:446
+msgid "Curses! Now they come in even more numbers. I never thought orcs taking over Halstead was actually possible."
+msgstr ""
+
+#. [message]: speaker=Tul-Gor
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:450
+msgid "Whahahaha! Slay the humans! All of them!"
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:454
+msgid "You!"
+msgstr ""
+
+#. [message]: speaker=Tul-Gor
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:458
+msgid "Oh ... haven't we met before human?"
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:462
+msgid "You will pay for what you did to Edgar!"
+msgstr ""
+
+#. [message]: speaker=Tul-Gor
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:466
+msgid "Ah, now I remember you. The puny human who fled from me back in a valley. You couldn't stand up to me there, and here is no different!"
+msgstr ""
+
+#. [message]: speaker=Bonk
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:470
+msgid "No more talkin', more killin'!"
+msgstr ""
+
+#. [message]: speaker=Al-Taff-Uh
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:474
+msgid "Yeah! Lets get 'em all!"
+msgstr ""
+
+#. [message]: speaker=Thromos
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:478
+msgid "Those orcs are going to feel my saber!"
+msgstr ""
+
+#. [message]: speaker=Dommel
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:482
+msgid "I doubt we'll be able to repel these orcs, but we must fight until the last man! FOR HALSTEAD!"
+msgstr ""
+
+#. [message]: speaker=Alifar
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:524
+msgid "Huzzah! I had a feeling Tul-Gor came here to do no good. Looks like I was right!"
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:528
+msgid "Alifar! It's good to see you again."
+msgstr ""
+
+#. [message]: speaker=Alifar
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:532
+msgid "Like wise, looks like you might 'ow me another one."
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:536
+msgid "Did you follow us?"
+msgstr ""
+
+#. [message]: speaker=Alifar
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:540
+msgid "I did. After Tul-Gor fled away. The coward!"
+msgstr ""
+
+#. [message]: speaker=Tul-Gor
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:544
+msgid "No one calls me a coward and gets away with it! Attack! Show no mercy to the ruffian!"
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:556
+msgid "This is for Edgar!"
+msgstr ""
+
+#. [message]: speaker=Alifar
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:576
+msgid "I feel really daring right now!"
+msgstr ""
+
+#. [message]: speaker=Tul-Gor
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:586
+msgid "Die in the name of Zorlan!"
+msgstr ""
+
+#. [unit]: type=Direwolf Rider, id=Wacok
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:596
+msgid "Wacok"
+msgstr ""
+
+#. [message]: speaker=Wacok
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:606
+msgid "He's dead! He's dead!"
+msgstr ""
+
+#. [message]: speaker=Fark
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:610
+msgid "What are you blabbering about?"
+msgstr ""
+
+#. [message]: speaker=Wacok
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:614
+msgid "The invincible great chief Zorlan is dead!"
+msgstr ""
+
+#. [message]: speaker=Tul-Gor
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:618
+msgid "WHAT!?"
+msgstr ""
+
+#. [message]: speaker=Wacok
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:622
+msgid "The humans ... and the elves, they united, and killed Zorlan at the Ford of Abez."
+msgstr ""
+
+#. [message]: speaker=Tul-Gor
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:626
+msgid "The King? The king of Wesnoth, does he live?"
+msgstr ""
+
+#. [message]: speaker=Wacok
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:630
+msgid "Yes. The humans and elves arrived in time to reinforce Garard before we could engage him."
+msgstr ""
+
+#. [message]: speaker=Alifar
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:634
+msgid "A great orcish chief rising in power and raiding Wesnoth!? Geez, how did I miss this?"
+msgstr ""
+
+#. [message]: speaker=Fark
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:638
+msgid "Grrr... Shut up, stupid!"
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:642
+msgid "Well, I guess you guys better call off this invasion, because even if you win, you won't be able to keep this stronghold under your control."
+msgstr ""
+
+#. [message]: speaker=Tul-Gor
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:646
+msgid "Wrong! We will crush you all and destroy the fortress!"
+msgstr ""
+
+#. [message]: speaker=Tul-Gor
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:658
+msgid "You think you can just walk in my camp and kill me? Fools!"
+msgstr ""
+
+#. [message]: speaker=Alifar
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:673
+msgid "Hehehe... *Whistles*"
+msgstr ""
+
+#. [message]: speaker=Busk
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:690
+msgid "Guards!"
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:707
+msgid "Now Sir Edgar has been avenged!"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:741
+msgid "Now we will destroy Halstead!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:754
+msgid "The enemy then beheaded the general, and as his lifeless body fell to the floor; So did all hope for victory..."
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:771
+msgid "We've lost a valuable ally ..."
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:913
+msgid "Victory!"
+msgstr ""
+
+#. [message]: speaker=Dommel
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:917
+msgid "I am very graceful, and impressed by you, Kaylan. This battle will surely be remembered."
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:921
+msgid "The orcs have suffered a great defeat today. Not only did we repel the invasion of Halstead but their great chief is dead as well. I doubt the orcs will trouble Wesnoth any time soon."
+msgstr ""
+
+#. [message]: speaker=Dommel
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:925
+msgid "Indeed. You should embark back to Weldyn now and report what has happened here. Some of my troops will go with you."
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:935
+msgid "Thank you general, and farewell."
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:941
+msgid "Thank you general. Alifar, will come with me?."
+msgstr ""
+
+#. [message]: speaker=Alifar
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:945
+msgid "No, Kaylan, I must lead my pets back to Gryphon Mountain and tend to the wounded. Farewell friend, safe journey to you. May we meet again."
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/scenarios/06_The_Battle_For_Halstead.cfg:949
+msgid "Farewell, Alifar."
+msgstr ""
+
+#: Adventures_of_Knighthood/utils/1.13_compatibility.cfg:5
+msgid " This unit has a defense cap on certain terrain types — it cannot achieve a higher defense rating on mixed terrains with such terrain types."
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/utils/deaths.cfg:11
+msgid "I've been defeated..."
+msgstr ""
+
+#. [message]: speaker=Sir Kaylan
+#: Adventures_of_Knighthood/utils/deaths.cfg:27
+msgid "Fare well Thromos, your death is most unfortunate."
+msgstr ""
+
